@@ -3,3 +3,4 @@ Todo aquello que sea conflictivo y no se haya podido resolver, se marca como "si
 En algunas ocasiones, los procesos de fusión no suelen ser fluidos
 
 Linea añadida por Pedro.
+Linea al final.
