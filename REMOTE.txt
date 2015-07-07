@@ -1,8 +1,11 @@
 ¿Qué es el control de versiones, y por qué debería importarte?
-El control de versiones es un sistema que registra los cambios realizados
 Todo aquello que sea conflictivo y no se haya podido resolver, se marca como "sin fusionar" (unmerged)
 En algunas ocasiones, los procesos de fusión no suelen ser fluidos
 
 Linea añadida por Pedro.
+<<<<<<< HEAD
 Linea al final.
 Soy Roger, no me va internet y la webex imposible, ya ni os escucho.
+=======
+Linea al final.
+>>>>>>> 64f8dfb554053f1d339f5240c0d73e21c96c33a3
